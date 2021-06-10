@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Henry Jacob,
-an entry-level data analyst who take pride in  building models that translate  data points into business insights.  Now I am eager to learn and  apply my knowledge to real-world  business problems.
+an IBM certified Data Science Professional who take pride in  building models that translate  data points into business insights.  Now I am eager to learn and  apply my knowledge to real-world  business problems.
 
 ### My skills include
 
