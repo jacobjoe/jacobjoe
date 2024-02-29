@@ -1,14 +1,25 @@
 ### Hi there 👋 I'm Henry Jacob,
-an IBM certified Data Science Professional who take pride in  building models that translate  data points into business insights.  Now I am eager to learn and  apply my knowledge to real-world  business problems.
+a Data Engineer having experience in handling pipeline and Visualizations
 
-### My skills include
+### My experience and skills include
+
+
+
 
 
 <h3 align="center">
-  <img src="https://user-images.githubusercontent.com/64120284/107921839-f8953a80-6f23-11eb-81a8-6f050c848f8c.png" width = "150">
-  <img src="https://user-images.githubusercontent.com/64120284/107921918-1a8ebd00-6f24-11eb-8061-ccbf7bdf43a0.png" width = "150">
-  <img src="https://user-images.githubusercontent.com/64120284/107922013-3d20d600-6f24-11eb-9825-b5e97979b8a9.png" width = "150">
-  <img src="https://user-images.githubusercontent.com/64120284/107922193-85d88f00-6f24-11eb-9dd5-c530a1c17332.png" width = "150"></h3>
+  <img src="https://github.com/jacobjoe/assets/blob/main/python.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/sql.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/databricks.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/dbt.png" width = "150">
+</h3>
+
+<h3 align="center">
+  <img src="https://github.com/jacobjoe/assets/blob/main/QuickSIght.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/tableau.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/redash.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/excel.png" width = "150">
+</h3>
 
 ---
 
