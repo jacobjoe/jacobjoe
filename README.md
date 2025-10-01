@@ -8,19 +8,19 @@
 
 
 <h3 align="center">
-  <img src="https://github.com/jacobjoe/assets/blob/main/python.png" width = "180">
-  <img src="https://github.com/jacobjoe/assets/blob/main/sql.png" width = "180">
-  <img src="https://github.com/jacobjoe/assets/blob/main/databricks.png" width = "180">
-  <img src="https://github.com/jacobjoe/assets/blob/main/airflow.png" width = "180">
-  <img src="https://github.com/jacobjoe/assets/blob/main/dbt.png" width = "180">
+  <img src="https://github.com/jacobjoe/assets/blob/main/python.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/sql.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/databricks.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/airflow.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/dbt.png" width = "150">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/jacobjoe/assets/blob/main/docker.png" width = "180">
-  <img src="https://github.com/jacobjoe/assets/blob/main/QuickSIght.png" width = "180">
-  <img src="https://github.com/jacobjoe/assets/blob/main/tableau.png" width = "180">
-  <img src="https://github.com/jacobjoe/assets/blob/main/redash.png" width = "180">
-  <img src="https://github.com/jacobjoe/assets/blob/main/excel.png" width = "180">
+  <img src="https://github.com/jacobjoe/assets/blob/main/docker.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/QuickSIght.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/tableau.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/redash.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/excel.png" width = "150">
 </h3>
 
 ---
