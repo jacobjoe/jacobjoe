@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Henry Jacob,
- Data engineer with 2 years of experience in data cleaning, preprocessing, analysis, and visualization.
+ Data engineer with 2+ years of experience in data cleaning, preprocessing, analysis, and visualization.
 
 ### My experience and skills include
 
@@ -8,17 +8,21 @@
 
 
 <h3 align="center">
-  <img src="https://github.com/jacobjoe/assets/blob/main/python.png" width = "150">
-  <img src="https://github.com/jacobjoe/assets/blob/main/sql.png" width = "150">
-  <img src="https://github.com/jacobjoe/assets/blob/main/databricks.png" width = "150">
-  <img src="https://github.com/jacobjoe/assets/blob/main/dbt.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/python.png" width = "200">
+  <img src="https://github.com/jacobjoe/assets/blob/main/sql.png" width = "200">
+  <img src="https://github.com/jacobjoe/assets/blob/main/databricks.png" width = "200">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/jacobjoe/assets/blob/main/QuickSIght.png" width = "150">
-  <img src="https://github.com/jacobjoe/assets/blob/main/tableau.png" width = "150">
-  <img src="https://github.com/jacobjoe/assets/blob/main/redash.png" width = "150">
-  <img src="https://github.com/jacobjoe/assets/blob/main/excel.png" width = "150">
+  <img src="https://github.com/jacobjoe/assets/blob/main/airflow.png" width = "200">
+  <img src="https://github.com/jacobjoe/assets/blob/main/dbt.png" width = "200">
+  <img src="https://github.com/jacobjoe/assets/blob/main/QuickSIght.png" width = "200">
+</h3>
+
+<h3 align="center">
+  <img src="https://github.com/jacobjoe/assets/blob/main/tableau.png" width = "200">
+  <img src="https://github.com/jacobjoe/assets/blob/main/redash.png" width = "200">
+  <img src="https://github.com/jacobjoe/assets/blob/main/excel.png" width = "200">
 </h3>
 
 ---
